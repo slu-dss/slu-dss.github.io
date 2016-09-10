@@ -21,3 +21,5 @@ The SLU Data Science Seminar (DSS) is a collaborative, interdisciplinary group f
 **Past projects:**
 
   * [DSS 01](https://github.com/slu-data-science-seminar/spring-2016-seminar-01): Data Management in `R`
+
+[Test Link](http://slu-data-science-seminar.github.io/test/test/independent_site.html)
