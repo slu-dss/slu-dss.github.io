@@ -10,7 +10,7 @@ The SLU Data Science Seminar (DSS) is a collaborative, interdisciplinary group f
 ### Faculty Co-Organizers
 The SLU DSS is currently organized by:
 
-* [Christina Gacia, Ph.D.](mailto:garciacm@slu.edu), Spanish & Linguistics
+* [Christina Garcia, Ph.D.](mailto:garciacm@slu.edu), Spanish & Linguistics
 * [Kelly Lovejoy, Ph.D.](mailto:lovejoykg@slu.edu), Spanish & Linguistics
 * [Christopher Prener, Ph.D.](mailto:prenercg@slu.edu}), Sociology
 
