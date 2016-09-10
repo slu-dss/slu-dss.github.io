@@ -10,7 +10,7 @@ highlighter: rouge
 #
 title : slu data science seminar
 author :
-  name : slu data science seminar
+  name : #sludss
   email : nil
   github : slu-data-science-seminar
   twitter : SLUDataScience
@@ -59,7 +59,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  # ASSET_PATH : http://slu-data-science-seminar.github.io/assets/themes/twitter
+  # ASSET_PATH :
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
