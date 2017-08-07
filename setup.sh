@@ -11,10 +11,10 @@
 # on creating websites with blogdown, Hugo, and GitHub.
 
 # GitHub username
-USERNAME=chris-prener
+USERNAME=slu-dss
 # Name of the branch containing the Hugo source files.
 # Name of the branch containing the Hugo source files.
-SOURCE=sources
+SOURCE=hugo
 
 msg() {
     printf "\033[1;32m :: %s\n\033[0m" "$1"
