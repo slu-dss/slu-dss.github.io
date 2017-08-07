@@ -1,53 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>SLU Data Science Seminar</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on SLU Data Science Seminar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <language>en-US</language>
+    <copyright>Copyright © 2016-2017 SLU Data Science Seminar (CC BY 4.0)</copyright>
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title>DSS Seminar 04: Mapping Data in R</title>
+      <link>/blog/dss-seminar-04-mapping-data-in-r/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>/blog/dss-seminar-04-mapping-data-in-r/</guid>
+      <description>Our Fall, 2017 seminar series will be a four-part introduction to working with spatial data in R. We&amp;rsquo;ll cover the basics of spatial data structures, merging data frames, and using ggplot2 to create maps. No experience with R, GIS work, or mapping is required! Please note that we ask that participants commit to all four seminar dates.
+Where: 3600 Morrissey Hall
+When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <title>Protecting Your Data</title>
+      <link>/blog/protecting-your-data/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <guid>/blog/protecting-your-data/</guid>
+      <description>On September 6th, we will be hosting a short one-hour seminar focused on some general strategies for protecting your research data against hard drive failure, structure fires, natural disasters, and other calamities. If you&amp;rsquo;ve ever worried about what would happen to your work if this happened at your home or in your office but aren&amp;rsquo;t sure how to back your data up effectively, this seminar is for you! We&amp;rsquo;ll introduce some basic strategies and have plenty of time for Q &amp;amp; A.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Seminars</title>
+      <link>/seminars/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/seminars/</guid>
+      <description> Current Seminars (Fall, 2017)  DSS Seminar 04: Mapping Data in R Protecting Your Data Seminar OpenGIS  Past Seminars  DSS Seminar 03: Building Linear Models in R (Spring, 2017)  Session 03-1 - R and RStudio Session 03-2 - Descriptive Statistics Session 03-3 - Hypothesis Testing Session 03-4 - Correlation Session 03-5 - Linear Regression  ATLAS Week 2017: Accessible Data Analysis DSS Seminar 02: Plots &amp;amp; Figures in R (Fall, 2016)  Session 02-1 - R and RStudio Session 02-2 - Normality Plots Session 02-3 - ggplot2 Basics Session 02-4 - More ggplot2 Session 02-5 - Plot Layouts  DSS Seminar 01: Data Management in R (Spring, 2016)  Session 01-1 - R and RStudio Session 01-2 - Importing and Describing Data Session 01-3 - Recoding Numeric Variables Session 01-4 - Factor Variables Session 01-5 - More Factors Session 01-6 - String Variables   </description>
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      <title>Home</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/home/</guid>
+      <description>We are a collaborative, interdisciplinary group at Saint Louis University focused on building researchers&amp;rsquo; data science skills using open source software. We currently host seminars focused on the programming language R.
+The DSS is organized by Christina Garcia, Kelly Lovejoy, and Chris Prener.</description>
     </item>
     
   </channel>

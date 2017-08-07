@@ -2,6 +2,6 @@
 title = "Home"
 +++
 
-_This is the home page. It will display the blog section if there is one, and a text before._
+We are a collaborative, interdisciplinary group at [Saint Louis University](www.slu.edu) focused on building researchers' data science skills using open source software. We currently host seminars focused on the programming language `R`. 
 
-Hey ! Welcome to the **Cocoa Enhanced theme**. Here are some articles :
+The DSS is organized by [Christina Garcia](mailto:garciacm@slu.edu), [Kelly Lovejoy](mailto:lovejoykg@slu.edu), and [Chris Prener](mailto:prenercg@slu.edu).
