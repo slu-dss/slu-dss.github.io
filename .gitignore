@@ -1,3 +1,31 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
 # OS generated files #
 ######################
 .DS_Store
@@ -8,7 +36,11 @@
 ehthumbs.db
 Thumbs.db
 
-# Website files #
-#################
-_site
-Gemfile.lock
+# R files #
+###########
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.dcf
+*.ttc
