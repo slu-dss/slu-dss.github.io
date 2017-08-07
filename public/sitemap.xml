@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/dss-seminar-04-mapping-data-in-r/</loc>
+    <loc>https://example.com/blog/dss-seminar-04-mapping-data-in-r/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/protecting-your-data/</loc>
+    <loc>https://example.com/blog/protecting-your-data/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/seminars/</loc>
+    <loc>https://example.com/seminars/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/home/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://example.com/blog/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
