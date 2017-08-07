@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on SLU Data Science Seminar</title>
+    <link>https://example.com/blog/</link>
+    <description>Recent content in Blog on SLU Data Science Seminar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2016-2017 SLU Data Science Seminar (CC BY 4.0)</copyright>
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DSS Seminar 04: Mapping Data in R</title>
+      <link>https://example.com/blog/dss-seminar-04-mapping-data-in-r/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/dss-seminar-04-mapping-data-in-r/</guid>
+      <description>Our Fall, 2017 seminar series will be a four-part introduction to working with spatial data in R. We&amp;rsquo;ll cover the basics of spatial data structures, merging data frames, and using ggplot2 to create maps. No experience with R, GIS work, or mapping is required! Please note that we ask that participants commit to all four seminar dates.
+Where: 3600 Morrissey Hall
+When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
+    </item>
+    
+    <item>
+      <title>Protecting Your Data</title>
+      <link>https://example.com/blog/protecting-your-data/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/protecting-your-data/</guid>
+      <description>On September 6th, we will be hosting a short one-hour seminar focused on some general strategies for protecting your research data against hard drive failure, structure fires, natural disasters, and other calamities. If you&amp;rsquo;ve ever worried about what would happen to your work if this happened at your home or in your office but aren&amp;rsquo;t sure how to back your data up effectively, this seminar is for you! We&amp;rsquo;ll introduce some basic strategies and have plenty of time for Q &amp;amp; A.</description>
+    </item>
+    
+  </channel>
+</rss>
