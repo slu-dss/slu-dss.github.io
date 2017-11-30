@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SLU Data Science Seminar</title>
-    <link>https://slu-dss.github.io/</link>
+    <link>/</link>
     <description>Recent content on SLU Data Science Seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2016-2017 SLU Data Science Seminar (CC BY 4.0)</copyright>
     <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://slu-dss.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>DSS Seminar 04: Mapping Data in R</title>
-      <link>https://slu-dss.github.io/blog/dss-seminar-04-mapping-data-in-r/</link>
+      <title>Brownbags</title>
+      <link>/brownbags/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/blog/dss-seminar-04-mapping-data-in-r/</guid>
+      <guid>/brownbags/</guid>
+      <description>Beginning in Fall 2017, we started hosting single sessions that targeted specific skills. We like the format as an addition to the multi-part seminar series we offer each semester. We are hopting to use it to give SLU faculty, staff, and students the opportunity to showcase the awesome things they are using open-source tools (like R, Python, or Julia) in their research or teaching. If you have something you&amp;rsquo;d like to showcase, let us know!</description>
+    </item>
+    
+    <item>
+      <title>DSS Seminar 04: Mapping Data in R</title>
+      <link>/blog/dss-seminar-04-mapping-data-in-r/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/dss-seminar-04-mapping-data-in-r/</guid>
       <description>Our Fall, 2017 seminar series will be a four-part introduction to working with spatial data in R. We&amp;rsquo;ll cover the basics of spatial data structures, merging data frames, and using ggplot2 to create maps. No experience with R, GIS work, or mapping is required! Please note that we ask that participants commit to all four seminar dates.
 Where: 3600 Morrissey Hall
 When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
@@ -25,28 +34,28 @@ When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
     
     <item>
       <title>Protecting Your Data</title>
-      <link>https://slu-dss.github.io/blog/protecting-your-data/</link>
+      <link>/blog/protecting-your-data/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/blog/protecting-your-data/</guid>
+      <guid>/blog/protecting-your-data/</guid>
       <description>On September 6th, we will be hosting a short one-hour seminar focused on some general strategies for protecting your research data against hard drive failure, structure fires, natural disasters, and other calamities. If you&amp;rsquo;ve ever worried about what would happen to your work if this happened at your home or in your office but aren&amp;rsquo;t sure how to back your data up effectively, this seminar is for you! We&amp;rsquo;ll introduce some basic strategies and have plenty of time for Q &amp;amp; A.</description>
     </item>
     
     <item>
       <title>Seminars</title>
-      <link>https://slu-dss.github.io/seminars/</link>
+      <link>/seminars/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/seminars/</guid>
-      <description> Current Seminars (Fall, 2017)  DSS Seminar 04: Mapping Data in R Protecting Your Data Seminar OpenGIS  Past Seminars  DSS Seminar 03: Building Linear Models in R (Spring, 2017)  Session 03-1 - R and RStudio Session 03-2 - Descriptive Statistics Session 03-3 - Hypothesis Testing Session 03-4 - Correlation Session 03-5 - Linear Regression  ATLAS Week 2017: Accessible Data Analysis DSS Seminar 02: Plots &amp;amp; Figures in R (Fall, 2016)  Session 02-1 - R and RStudio Session 02-2 - Normality Plots Session 02-3 - ggplot2 Basics Session 02-4 - More ggplot2 Session 02-5 - Plot Layouts  DSS Seminar 01: Data Management in R (Spring, 2016)  Session 01-1 - R and RStudio Session 01-2 - Importing and Describing Data Session 01-3 - Recoding Numeric Variables Session 01-4 - Factor Variables Session 01-5 - More Factors Session 01-6 - String Variables   </description>
+      <guid>/seminars/</guid>
+      <description> Upcoming Seminars (Spring 2018)  DSS Seminar 05: Functions &amp;amp; Packages in R  Past Seminars  DSS Seminar 04: Mapping Data in R (Fall 2017)  Session 04-1 - Introduction to R, RStudio, and ggplot2 Session 04-2 - Reading Data into R and ggplot2 Session 04-3 - Building Basic Maps Session 04-4 - Adding Complexity to Maps  DSS Seminar 03: Building Linear Models in R (Spring 2017)  Session 03-1 - R and RStudio Session 03-2 - Descriptive Statistics Session 03-3 - Hypothesis Testing Session 03-4 - Correlation Session 03-5 - Linear Regression  ATLAS Week 2017: Accessible Data Analysis DSS Seminar 02: Plots &amp;amp; Figures in R (Fall 2016)  Session 02-1 - R and RStudio Session 02-2 - Normality Plots Session 02-3 - ggplot2 Basics Session 02-4 - More ggplot2 Session 02-5 - Plot Layouts  DSS Seminar 01: Data Management in R (Spring 2016)  Session 01-1 - R and RStudio Session 01-2 - Importing and Describing Data Session 01-3 - Recoding Numeric Variables Session 01-4 - Factor Variables Session 01-5 - More Factors Session 01-6 - String Variables   </description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>https://slu-dss.github.io/home/</link>
+      <link>/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/home/</guid>
+      <guid>/home/</guid>
       <description>We are a collaborative, interdisciplinary group at Saint Louis University focused on building researchers&amp;rsquo; data science skills using open source software. We currently host seminars focused on the programming language R.
 The DSS is organized by Christina Garcia, Kelly Lovejoy, and Chris Prener.</description>
     </item>
