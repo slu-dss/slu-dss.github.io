@@ -14,10 +14,10 @@
     
     <item>
       <title>DSS Seminar 05: Functions &amp; Packages in R</title>
-      <link>/blog/dss-seminar-05-functions--packages-in-r/</link>
+      <link>/news/dss05/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/dss-seminar-05-functions--packages-in-r/</guid>
+      <guid>/news/dss05/</guid>
       <description>The four sessions for the Spring 2018 seminar will cover ways to use R for managing research projects. We’ll discuss how to write functions that automate repetitive tasks, how to include those functions in your own package, and how to track your package development work using Git and GitHub. No prior experience with R, package development, Git, or GitHub is necessary!
 Where: 3600 Morrissey Hall
 When: Wednesdays (Jan. 24, Feb. 7, Feb.</description>
@@ -34,10 +34,10 @@ When: Wednesdays (Jan. 24, Feb. 7, Feb.</description>
     
     <item>
       <title>DSS Seminar 04: Mapping Data in R</title>
-      <link>/blog/dss-seminar-04-mapping-data-in-r/</link>
+      <link>/news/dss04/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/dss-seminar-04-mapping-data-in-r/</guid>
+      <guid>/news/dss04/</guid>
       <description>Our Fall, 2017 seminar series will be a four-part introduction to working with spatial data in R. We&amp;rsquo;ll cover the basics of spatial data structures, merging data frames, and using ggplot2 to create maps. No experience with R, GIS work, or mapping is required! Please note that we ask that participants commit to all four seminar dates.
 Where: 3600 Morrissey Hall
 When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
@@ -45,10 +45,10 @@ When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
     
     <item>
       <title>Protecting Your Data</title>
-      <link>/blog/protecting-your-data/</link>
+      <link>/news/protectdata/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/protecting-your-data/</guid>
+      <guid>/news/protectdata/</guid>
       <description>On September 6th, we will be hosting a short one-hour seminar focused on some general strategies for protecting your research data against hard drive failure, structure fires, natural disasters, and other calamities. If you&amp;rsquo;ve ever worried about what would happen to your work if this happened at your home or in your office but aren&amp;rsquo;t sure how to back your data up effectively, this seminar is for you! We&amp;rsquo;ll introduce some basic strategies and have plenty of time for Q &amp;amp; A.</description>
     </item>
     
@@ -67,7 +67,8 @@ When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/</guid>
-      <description>We are a collaborative, interdisciplinary group at Saint Louis University focused on building researchers&amp;rsquo; data science skills using open source software. We host a seminar series focused on the programming language R each semester. We also provide a forum for &amp;ldquo;brownbag&amp;rdquo; sessions where SLU faculty, staff, and students can share their open source data anlysis skills.
+      <description>We are a collaborative, interdisciplinary group at Saint Louis University focused on building researchers&amp;rsquo; data science skills using open source software.
+We host a seminar series focused on the programming language R each semester. We also provide a forum for &amp;ldquo;brownbag&amp;rdquo; sessions where SLU faculty, staff, and students can share their open source data anlysis skills.
 The DSS is organized by Christina Garcia, Kelly Lovejoy, and Chris Prener.
 
 Subscribe to our mailing list</description>
