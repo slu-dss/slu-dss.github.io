@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2016-2017 SLU Data Science Seminar (CC BY 4.0)</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DSS Seminar 05: Functions &amp; Packages in R</title>
+      <link>/blog/dss-seminar-05-functions--packages-in-r/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/dss-seminar-05-functions--packages-in-r/</guid>
+      <description>The four sessions for the Spring 2018 seminar will cover ways to use R for managing research projects. We’ll discuss how to write functions that automate repetitive tasks, how to include those functions in your own package, and how to track your package development work using Git and GitHub. No prior experience with R, package development, Git, or GitHub is necessary!
+Where: 3600 Morrissey Hall
+When: Wednesdays (Jan. 24, Feb. 7, Feb.</description>
+    </item>
     
     <item>
       <title>DSS Seminar 04: Mapping Data in R</title>
