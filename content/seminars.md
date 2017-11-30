@@ -5,7 +5,7 @@ title = "Seminars"
 
 ## Upcoming Seminars (Spring 2018)
 
-* DSS Seminar 05: Functions & Packages in `R`
+* [DSS Seminar 05: Functions & Packages in `R`](/news/dss05)
 
 ## Past Seminars
 
