@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/blog/dss-seminar-05-functions--packages-in-r/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/brownbags/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -38,7 +43,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
