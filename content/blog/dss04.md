@@ -10,5 +10,3 @@ Our Fall, 2017 seminar series will be a four-part introduction to working with s
 **Where: 3600 Morrissey Hall**
 
 **When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, & Nov. 1) from 2pm to 3pm**
-
-**RSVP via [Google Forms](https://goo.gl/forms/3JHK8aX4RbWGTE402)**

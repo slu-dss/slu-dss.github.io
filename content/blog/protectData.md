@@ -9,5 +9,3 @@ On September 6th, we will be hosting a short one-hour seminar focused on some ge
 **Where: 3600 Morrissey Hall**
 
 **When: Wednesday, September 6th from 2pm to 3pm**
-
-**RSVP via [Google Forms](https://goo.gl/forms/dG55RrNcB5oZ79o83)**
