@@ -4,12 +4,13 @@ title = "Home"
 
 We are a collaborative, interdisciplinary group at [Saint Louis University](https://www.slu.edu) focused on building researchers' data science skills using open source software. 
 
-We host a seminar series focused on the programming language `R` each semester. We also provide a forum for "brownbag" sessions where SLU faculty, staff, and students can share their open source data anlysis skills.
+We host a seminar series focused on the programming language `R` each semester. We also provide a forum for "brownbag" sessions where SLU faculty, staff, and students can share open source data anlysis skills.
 
 The DSS is organized by [Christina Garcia](mailto:christina.garcia@slu.edu), [Kelly Lovejoy](mailto:kelly.lovejoy@slu.edu), and [Chris Prener](mailto:chris.prener@slu.edu).
 
 <br />
-<div class="page-heading">Subscribe to our mailing list</div>
+<div class="page-heading">Stay in touch</div>
+We send out occasional annoucements to the open source community at SLU. If you want to hear about upcoming seminars, brownbags, and other open source events, subscribe to our mailing list! You can also follow us on [Twitter](https://twitter.com/SLUDSS) and join our [GitHub organization](https://github.com/slu-dss).
 
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 
@@ -19,7 +20,7 @@ The DSS is organized by [Christina Garcia](mailto:christina.garcia@slu.edu), [Ke
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d701e899c8335f07350e27b2a_4901d2d473" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
