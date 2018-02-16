@@ -2,58 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://slu-dss.github.io/news/metaanalysis/</loc>
+    <loc>/news/metaanalysis/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/news/dss05/</loc>
+    <loc>/gis/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/dss05/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/brownbags/</loc>
+    <loc>/brownbags/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/news/dss04/</loc>
+    <loc>/news/dss04/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/news/protectdata/</loc>
+    <loc>/news/protectdata/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/seminars/</loc>
+    <loc>/seminars/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/home/</loc>
+    <loc>/home/</loc>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/news/</loc>
+    <loc>/news/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://slu-dss.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
