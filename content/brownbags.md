@@ -7,5 +7,6 @@ Beginning in Fall 2017, we started hosting single sessions that targeted specifi
 
 ## Past Brownbag Sessions
 
+* [Meta-Analysis in `R`](/news/metaAnalysis/), Spring 2018
 * [Protecting Your Data](https://github.com/slu-dss/protectData), Fall 2017
 * [Sentiment Analysis with `tidytext`](https://github.com/slu-dss/sentiments), Fall 2017
