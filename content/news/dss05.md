@@ -10,5 +10,3 @@ The four sessions for the Spring 2018 seminar will cover ways to use `R` for man
 **Where: 3600 Morrissey Hall**
 
 **When: Wednesdays (Jan. 24, Feb. 7, Feb. 21, & Mar. 7) from 1pm to 2pm**
-
-**RSVP: [Register via Google Forms](https://goo.gl/forms/tO1Jxne5xaocp0pF3)**
