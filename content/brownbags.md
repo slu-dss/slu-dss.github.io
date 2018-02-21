@@ -7,7 +7,7 @@ Beginning in Fall 2017, we started hosting single sessions that targeted specifi
 
 ## Upcoming Brownbag Sessions
 
-* [Meta-Analysis in `R`](/news/metaAnalysis/), March 28th, 2018
+* [Meta-Analysis in `R`](/news/metaanalysis/), March 28th, 2018
 
 ## Past Brownbag Sessions
 
