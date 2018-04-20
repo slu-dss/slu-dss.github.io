@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SLU Data Science Seminar</title>
-    <link>/tags/</link>
+    <link>https://slu-dss.github.io/tags/</link>
     <description>Recent content in Tags on SLU Data Science Seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2016-2018 SLU Data Science Seminar (CC BY 4.0)</copyright>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://slu-dss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
