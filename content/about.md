@@ -4,7 +4,7 @@ title = "About"
 weight = 1
 +++
 
-We are a collaborative, interdisciplinary group at [Saint Louis University](https://www.slu.edu) focused on building community around open source software and open science. Our goal is to bring faculty, students, and staff together from around the University in a way that bridges traditional barriers to collaboration and learning within colleges and University. We are also dedicated to creating a welcoming, inclusive data science community here at SLU (see the 'Inclusion and our Code of Conduct' section below).
+We are a collaborative, interdisciplinary group at [Saint Louis University](https://www.slu.edu) focused on building community around open source software and open science. Our goal is to bring faculty, students, and staff together from around the University in a way that bridges traditional barriers to collaboration and learning within colleges and universities. We are also dedicated to creating a welcoming, inclusive data science community here at SLU (see the 'Inclusion and our Code of Conduct' section below).
 
 We organize the following efforts:
 
