@@ -18,7 +18,7 @@ We organize the following efforts:
 ### Inclusion and our Code of Conduct
 In the interest of fostering an open and welcoming environment, the SLU DSS is dedicated to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. 
 
-We include the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) in all of our repositories and follow it for our offline events. We aim, both online and offline, to create a positive enviornment for all of our facilitators, maintainers, and participants. Examples of behavior that contributes to creating a positive environment include:
+We include the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) in all of our repositories and follow it for our offline events. We aim, both online and offline, to create a positive environment for all of our facilitators, maintainers, and participants. Examples of behavior that contributes to creating a positive environment include:
 
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
