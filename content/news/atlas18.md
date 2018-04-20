@@ -13,5 +13,3 @@ Our goal is to showcase how to use basic data science skills to evaluate problem
 **Where: 3600 Morrissey Hall**
 
 **When: Wednesday, April 11th from 12 to 1:45 p.m.**
-
-**RSVP: [Register via Google Forms](https://goo.gl/forms/iUwFXJixZHeHCREo2)**

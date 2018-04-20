@@ -18,7 +18,7 @@ blog = "blog/:slug/"
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "DSS Website"
-copyright = "Copyright © 2016-2017 SLU Data Science Seminar (CC BY 4.0)"
+copyright = "Copyright © 2016-2018 SLU Data Science Seminar (CC BY 4.0)"
 copyrightUrl = "https://creativecommons.org/licenses/by/4.0/"
 logofile = "img/logo.png"
 faviconfile = "img/logo.png"
@@ -27,14 +27,14 @@ progressively = true
 share = true
 latestpostcount = 5
 github = "slu-dss"
-email = "prenercg@slu.edu"
+email = "chris.prener@slu.edu"
 linkedin = ""
 twitter = "SLUDSS"
 facebook = ""
 social_banner = "img/banner.png"
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
-# githubRepo = "githubUsername/repositoryName"
+githubRepo = "slu-dss/slu-dss.github.io"
 
 [params.colors]
 identifier = "#527fc1f"
