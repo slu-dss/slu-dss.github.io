@@ -34,7 +34,7 @@ facebook = ""
 social_banner = "img/banner.png"
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
-githubRepo = "slu-dss/slu-dss.github.io"
+# githubRepo = ""
 
 [params.colors]
 identifier = "#527fc1f"
