@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on SLU Data Science Seminar</title>
-    <link>https://slu-dss.github.io/news/</link>
+    <link>/news/</link>
     <description>Recent content in News on SLU Data Science Seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2016-2018 SLU Data Science Seminar (CC BY 4.0)</copyright>
     <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://slu-dss.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atlas Week 2018</title>
-      <link>https://slu-dss.github.io/news/atlas18/</link>
+      <link>/news/atlas18/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/atlas18/</guid>
+      <guid>/news/atlas18/</guid>
       <description>Accessible Data Analysis: Using St. Louis Data to Explore Global Issues In this workshop, we&amp;rsquo;ll use publicly available data about St. Louis to introduce open source data analysis software (R) that can be used to explore and respond to questions that are of concern to communities worldwide. We’ll use two local datasets to introduce participants to the art of data analysis: information on income, and asthma rates, for St. Louis.</description>
     </item>
     
     <item>
       <title>Brownbag: Meta-Analysis in R</title>
-      <link>https://slu-dss.github.io/news/metaanalysis/</link>
+      <link>/news/metaanalysis/</link>
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/metaanalysis/</guid>
+      <guid>/news/metaanalysis/</guid>
       <description>Please join us for another installment of our occasional brownbag series. Assistant Professor Cort Rudolph, from the Department of Psychology, will be giving a short overview of techniques for producing meta-analyses using R. Meta-analysis is a statistical technique for evaluating the effects found in multiple scientific studies. No experience with meta-analysis is required. While some basic familiarity with R is helpful, it is also not required.
 Where: 3600 Morrissey Hall</description>
     </item>
     
     <item>
       <title>DSS Seminar 05: Functions &amp; Packages in R</title>
-      <link>https://slu-dss.github.io/news/dss05/</link>
+      <link>/news/dss05/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/dss05/</guid>
+      <guid>/news/dss05/</guid>
       <description>The four sessions for the Spring 2018 seminar will cover ways to use R for managing research projects. We’ll discuss how to write functions that automate repetitive tasks, how to include those functions in your own package, and how to track your package development work using Git and GitHub. No prior experience with R, package development, Git, or GitHub is necessary!
 Where: 3600 Morrissey Hall
 When: Wednesdays (Jan. 24, Feb. 7, Feb.</description>
@@ -44,10 +44,10 @@ When: Wednesdays (Jan. 24, Feb. 7, Feb.</description>
     
     <item>
       <title>DSS Seminar 04: Mapping Data in R</title>
-      <link>https://slu-dss.github.io/news/dss04/</link>
+      <link>/news/dss04/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/dss04/</guid>
+      <guid>/news/dss04/</guid>
       <description>Our Fall, 2017 seminar series will be a four-part introduction to working with spatial data in R. We&amp;rsquo;ll cover the basics of spatial data structures, merging data frames, and using ggplot2 to create maps. No experience with R, GIS work, or mapping is required! Please note that we ask that participants commit to all four seminar dates.
 Where: 3600 Morrissey Hall
 When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
@@ -55,10 +55,10 @@ When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
     
     <item>
       <title>Protecting Your Data</title>
-      <link>https://slu-dss.github.io/news/protectdata/</link>
+      <link>/news/protectdata/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/protectdata/</guid>
+      <guid>/news/protectdata/</guid>
       <description>On September 6th, we will be hosting a short one-hour seminar focused on some general strategies for protecting your research data against hard drive failure, structure fires, natural disasters, and other calamities. If you&amp;rsquo;ve ever worried about what would happen to your work if this happened at your home or in your office but aren&amp;rsquo;t sure how to back your data up effectively, this seminar is for you! We&amp;rsquo;ll introduce some basic strategies and have plenty of time for Q &amp;amp; A.</description>
     </item>
     
