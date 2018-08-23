@@ -2,113 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SLU Data Science Seminar</title>
-    <link>https://slu-dss.github.io/</link>
+    <link>/</link>
     <description>Recent content on SLU Data Science Seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://slu-dss.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://slu-dss.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>We are a collaborative, interdisciplinary group at Saint Louis University focused on building community around open source software and open science. Our goal is to bring faculty, students, and staff together from around the University in a way that bridges traditional barriers to collaboration and learning within colleges and universities. We are also dedicated to creating a welcoming, inclusive data science community here at SLU (see the &amp;lsquo;Inclusion and our Code of Conduct&amp;rsquo; section below).</description>
     </item>
     
     <item>
       <title>Seminars</title>
-      <link>https://slu-dss.github.io/seminars/</link>
+      <link>/seminars/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/seminars/</guid>
+      <guid>/seminars/</guid>
       <description> Upcoming Seminars  DSS Seminar 06: Reproducible Research in R (Fall 2018) DSS Seminar 07: Data Wrangling in R (Spring 2019) DSS Seminar 08: Plots &amp;amp; Figures in R (Fall 2019) DSS Seminar 09: Building Linear Models in R (Spring 2020) DSS Seminar 10: Mapping Data in R (Fall 2020) DSS Seminar 11: Functions &amp;amp; Packages in R (Spring 2021)  Past Seminars  DSS Seminar 05: Functions &amp;amp; Packages in R  Session 05-1 - Introduction to R and Writing Functions Session 05-2 - The Basic R Package Structure Session 05-3 - Quosures, Git, &amp;amp; Building Packages Session 05-4 - Package Infrastructure  DSS Seminar 04: Mapping Data in R (Fall 2017)  Session 04-1 - Introduction to R, RStudio, and ggplot2 Session 04-2 - Reading Data into R and ggplot2 Session 04-3 - Building Basic Maps Session 04-4 - Adding Complexity to Maps  DSS Seminar 03: Building Linear Models in R (Spring 2017)  Session 03-1 - R and RStudio Session 03-2 - Descriptive Statistics Session 03-3 - Hypothesis Testing Session 03-4 - Correlation Session 03-5 - Linear Regression  ATLAS Week 2017: Accessible Data Analysis DSS Seminar 02: Plots &amp;amp; Figures in R (Fall 2016)  Session 02-1 - R and RStudio Session 02-2 - Normality Plots Session 02-3 - ggplot2 Basics Session 02-4 - More ggplot2 Session 02-5 - Plot Layouts  DSS Seminar 01: Data Management in R (Spring 2016)  Session 01-1 - R and RStudio Session 01-2 - Importing and Describing Data Session 01-3 - Recoding Numeric Variables Session 01-4 - Factor Variables Session 01-5 - More Factors Session 01-6 - String Variables   </description>
     </item>
     
     <item>
       <title>Brownbags</title>
-      <link>https://slu-dss.github.io/brownbags/</link>
+      <link>/brownbags/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/brownbags/</guid>
+      <guid>/brownbags/</guid>
       <description>Beginning in Fall 2017, we started hosting single sessions that targeted specific skills. We like the format as an addition to the multi-part seminar series we offer each semester. We are hoping to use it to give SLU faculty, staff, and students the opportunity to showcase the awesome things they are doing with open-source tools (like R, Python, or Julia) in their research or teaching. If you have something you&amp;rsquo;d like to showcase, let us know!</description>
     </item>
     
     <item>
       <title>Brownbag: Using Python for Automating Routine Tasks</title>
-      <link>https://slu-dss.github.io/news/pythonroutine/</link>
+      <link>/news/pythonroutine/</link>
       <pubDate>Thu, 23 Aug 2018 01:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/pythonroutine/</guid>
+      <guid>/news/pythonroutine/</guid>
       <description>Please join us for another installment of our occasional brownbag series. Srikanth Mudigonda, Ph.D., the Director of the M.S. in Applied Analytics, will be giving a short overview of techniques for automating routine data analysis and research tasks using Python. This will be the DSS&amp;rsquo;s first Python related lesson and is being used to help us develop a plan for offering Python content moving forward. If you are interested in using Python for data science, please join us in helping build this community at SLU!</description>
     </item>
     
     <item>
       <title>Brownbag: Power Analysis Primer in R</title>
-      <link>https://slu-dss.github.io/news/poweranalysis/</link>
+      <link>/news/poweranalysis/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/poweranalysis/</guid>
-      <description>Please join us for another installment of our occasional brownbag series. Matthew Schuelke, a statistician in the Office of the Vice President of Research who is also a faculty member at SLUCOR, will be giving a short overview of techniques for producing power analyses using R. These are important study design skills that ensure you are sampling or enrolling enough participants to address the questions you want to answer in your study.</description>
+      <guid>/news/poweranalysis/</guid>
+      <description>Please join us for another installment of our occasional brownbag series. Matthew Schuelke, Ph.D. a statistician in the Office of the Vice President of Research who is also a faculty member at SLUCOR, will be giving a short overview of techniques for producing power analyses using R. These are important study design skills that ensure you are sampling or enrolling enough participants to address the questions you want to answer in your study.</description>
     </item>
     
     <item>
       <title>DSS Seminar 06: Reproducible Research in R</title>
-      <link>https://slu-dss.github.io/news/dss06/</link>
+      <link>/news/dss06/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/dss06/</guid>
+      <guid>/news/dss06/</guid>
       <description>The four sessions for the Fall 2018 seminar will cover ways to use R for conducting reproducible research. We’ll discuss:
  Lesson 1 - September 5th - Introduction to R and RStudio Lesson 2 - September 19th - Reading and Writing Data with readr, readxl, and haven Lesson 3 - October 3rd - Notebooks and RMarkdown Lesson 4 - October 17th - Using knitr  If you are new to R, you are strongly encouraged to commit to all four seminars.</description>
     </item>
     
     <item>
       <title>2018 Open Science Meetup</title>
-      <link>https://slu-dss.github.io/news/meetup18/</link>
+      <link>/news/meetup18/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/meetup18/</guid>
-      <description>Please join us for a new event we are sponsoring - the first of what we hope will become an annual series of meetups for the open science and open source community on campus. We are hoping to bring together open science practioners and users of open source software from around the SLU community to help faculty, research scientists, staff, and graduate students network. Our secondary goal for this event to set an agenda for open science at SLU.</description>
+      <guid>/news/meetup18/</guid>
+      <description>Please join us for a new event we are sponsoring - the first of what we hope will become an annual series of meetups for the open science and open source community on campus. We are bringing together open science practioners and users of open source software from around the SLU community to help faculty, research scientists, staff, and graduate students network. Our secondary goal for this event is to set an agenda for open science at SLU.</description>
     </item>
     
     <item>
       <title>openGIS</title>
-      <link>https://slu-dss.github.io/gis/</link>
+      <link>/gis/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/gis/</guid>
+      <guid>/gis/</guid>
       <description>The SLU Data Science Seminar is the host of Chris Prener&amp;rsquo;s openGIS project. The project is a collaborative effort with SLU students to curate and host GIS data about the St. Louis area in an accessible manner. We also maintain several R packages that contain tools for working with spatial data. If you are interested in participating in either data curation or R software development, please email Chris. You can learn more about the openGIS project on its website.</description>
     </item>
     
     <item>
       <title>Atlas Week 2018</title>
-      <link>https://slu-dss.github.io/news/atlas18/</link>
+      <link>/news/atlas18/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/atlas18/</guid>
+      <guid>/news/atlas18/</guid>
       <description>Accessible Data Analysis: Using St. Louis Data to Explore Global Issues In this workshop, we&amp;rsquo;ll use publicly available data about St. Louis to introduce open source data analysis software (R) that can be used to explore and respond to questions that are of concern to communities worldwide. We’ll use two local datasets to introduce participants to the art of data analysis: information on income, and asthma rates, for St. Louis.</description>
     </item>
     
     <item>
       <title>Brownbag: Meta-Analysis in R</title>
-      <link>https://slu-dss.github.io/news/metaanalysis/</link>
+      <link>/news/metaanalysis/</link>
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/metaanalysis/</guid>
+      <guid>/news/metaanalysis/</guid>
       <description>Please join us for another installment of our occasional brownbag series. Assistant Professor Cort Rudolph, from the Department of Psychology, will be giving a short overview of techniques for producing meta-analyses using R. Meta-analysis is a statistical technique for evaluating the effects found in multiple scientific studies. No experience with meta-analysis is required. While some basic familiarity with R is helpful, it is also not required.
 Where: 3600 Morrissey Hall</description>
     </item>
     
     <item>
       <title>DSS Seminar 05: Functions &amp; Packages in R</title>
-      <link>https://slu-dss.github.io/news/dss05/</link>
+      <link>/news/dss05/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/dss05/</guid>
+      <guid>/news/dss05/</guid>
       <description>The four sessions for the Spring 2018 seminar will cover ways to use R for managing research projects. We’ll discuss how to write functions that automate repetitive tasks, how to include those functions in your own package, and how to track your package development work using Git and GitHub. No prior experience with R, package development, Git, or GitHub is necessary!
 Where: 3600 Morrissey Hall
 When: Wednesdays (Jan. 24, Feb. 7, Feb.</description>
@@ -116,10 +116,10 @@ When: Wednesdays (Jan. 24, Feb. 7, Feb.</description>
     
     <item>
       <title>DSS Seminar 04: Mapping Data in R</title>
-      <link>https://slu-dss.github.io/news/dss04/</link>
+      <link>/news/dss04/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/dss04/</guid>
+      <guid>/news/dss04/</guid>
       <description>Our Fall, 2017 seminar series will be a four-part introduction to working with spatial data in R. We&amp;rsquo;ll cover the basics of spatial data structures, merging data frames, and using ggplot2 to create maps. No experience with R, GIS work, or mapping is required! Please note that we ask that participants commit to all four seminar dates.
 Where: 3600 Morrissey Hall
 When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
@@ -127,19 +127,19 @@ When: Wednesdays (Sept. 20, Oct. 4, Oct. 18, &amp;amp; Nov.</description>
     
     <item>
       <title>Protecting Your Data</title>
-      <link>https://slu-dss.github.io/news/protectdata/</link>
+      <link>/news/protectdata/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/news/protectdata/</guid>
+      <guid>/news/protectdata/</guid>
       <description>On September 6th, we will be hosting a short one-hour seminar focused on some general strategies for protecting your research data against hard drive failure, structure fires, natural disasters, and other calamities. If you&amp;rsquo;ve ever worried about what would happen to your work if this happened at your home or in your office but aren&amp;rsquo;t sure how to back your data up effectively, this seminar is for you! We&amp;rsquo;ll introduce some basic strategies and have plenty of time for Q &amp;amp; A.</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>https://slu-dss.github.io/home/</link>
+      <link>/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://slu-dss.github.io/home/</guid>
+      <guid>/home/</guid>
       <description>We are a collaborative, interdisciplinary group at Saint Louis University focused on building community around open source software and open science.
 We host a seminar series focused on the programming language R each semester. We also provide a forum for brownbag sessions where SLU faculty, staff, and students can share open source data anlysis skills. More details about our projects and our commitment to creating an inclusive, welcoming data science community are available on our About page.</description>
     </item>
