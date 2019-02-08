@@ -35,6 +35,7 @@ social_banner = "img/banner.png"
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
 # githubRepo = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params.colors]
 identifier = "#527fc1f"
